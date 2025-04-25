@@ -1,0 +1,2 @@
+(function($){$(function(){if($('#astra-sites-showcase-v2-list').length){$('#astra-sites-showcase-v2-list').addClass('show-limited-sites');$('.show-all').on('click',function(){$('#astra-sites-showcase-v2-list').toggleClass('show-limited-sites');$('.show-all').hide()})}
+if($('#astra-sites-showcase-v4-list').length){$('#astra-sites-showcase-v4-list').addClass('show-limited-sites');$('.show-all').on('click',function(){$('#astra-sites-showcase-v4-list').toggleClass('show-limited-sites');$('.show-all').hide()})}})})(jQuery)
